@@ -1,5 +1,3 @@
-import lab4.Point;
-
 public class Pentagon {
     Point A;
     Point B;
